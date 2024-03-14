@@ -1,6 +1,4 @@
-import org.w3c.dom.ls.LSOutput;
-
-public class Variable {
+public class Variables {
     public static void main(String [] args) {
         int one = 557; // -2,147,483,648 до 2,147,483,647
         short two = 3266; // -32,768 до 32,767
